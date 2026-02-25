@@ -1,29 +1,27 @@
-# 🌐 Basic HTML & CSS Webpage Project
-HTML &amp; CSS code of my simple webpage project
+## 👋 Welcome
 
-## This is a simple multi-page website built using HTML and CSS to practice fundamental web development concepts. It includes a home page, contact form, login page, and more, with a focus on layout, structure, and responsive design.  
+Welcome to my GitHub profile.  
+This space represents my learning journey in programming and software development. Here you’ll find projects, experiments, and practice work built with a focus on strong fundamentals, clear logic, and continuous improvement.
 
-### 📁 Project Contents
-home.html – Main landing page
+---
 
-about.html – About section or profile
+## 🙋‍♂️ About Me
 
-contact.html – Contact form layout
+Hi, I’m Anand.  
+I’m a student passionate about coding, problem-solving, and building practical projects. I believe in learning by doing — writing code, understanding how systems work, and improving step by step through consistent practice.
 
-login.html – Basic login page design
+I value clean structure, logical thinking, and discipline in learning. This GitHub serves as a growing record of my progress as I develop my skills and explore new technologies.
 
-ideas.html – Page for sharing ideas or content
+---
 
-stry.html – Story or blog-style content page
+## 🎯 What You’ll Find Here
 
-chank.html – Extra/test page (custom purpose)
+- Academic and personal projects  
+- Practice programs and experiments  
+- Incremental improvements in coding skills and concepts  
 
-css/ – Folder containing stylesheets
+---
 
-imgs/ – Folder containing images used in the site
+## 🚀 Closing
 
-### 📂 Live Preview
-You can open home.html in any browser to view the site.
-
-📌 Code available in this repository.
-🎥 Video demo shared separately on my LinkedIn
+Still learning. Still building. Still moving forward.
